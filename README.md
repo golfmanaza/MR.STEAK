@@ -28,7 +28,7 @@ h1,h2,h3,h4,h5,h6 {
     <h1 class="w3-xxxlarge w3-animate-left w3-card-4">"Mr.Steak" </h1>
   </div>
 </header>
-x
+
 <!-- Page content -->
 <div class="w3-content" style="max-width:1100px">
 

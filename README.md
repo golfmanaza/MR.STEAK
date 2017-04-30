@@ -139,5 +139,5 @@ function showDivs(n) {
 
 <!-- Footer -->
 <footer class="w3-center w3-light-grey w3-padding-32 w3-card-3 ">
-  <p>ชมภาพรอาหารจากร้านต่าง<a href="https://www.instagram.com/explore/tags/eatstylegob/" title="W3.CSS" target="_blank" class="w3-hover-text-green">INSTAGRAM #EATSTYLEGOB</a></p>
+  <p>ชมภาพอาหารจากร้านต่าง<a href="https://www.instagram.com/explore/tags/eatstylegob/" title="W3.CSS" target="_blank" class="w3-hover-text-green">INSTAGRAM #EATSTYLEGOB</a></p>
 </footer>
